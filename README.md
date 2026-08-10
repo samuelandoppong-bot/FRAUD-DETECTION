@@ -1,2 +1,3 @@
 # Fraud-Detection
 Fraud Detection Machine learning project applying a Random Forest classifier to detect fraudulent transactions in the Pay Sim mobile money dataset (6.3M+ records). Covers data cleaning, feature encoding, class imbalance handling, and model evaluation. Built for the Artificial Intelligence course at UENR.
+This project uses the Pay Sim Synthetic Financial Fraud Detection dataset from Kaggle. Due to GitHub's 100MB file size limit, the dataset (470MB) is not included in this repository. Download it here: [https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset] Place the CSV in the project folder as AIMLDataset.csv before running the notebook.
